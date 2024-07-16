@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	width:1100px;
+	background-color:gray;
 }
 td{
 	border:2px solid black;
